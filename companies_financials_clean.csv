@@ -1,0 +1,301 @@
+company_name,country,industry,year,revenue,revenue_unit,profit,assets,market_value
+Hong Kong Exchanges,Hong Kong,,2024,2.6,USD Billion,1.5,43.4,47.8
+Thomson Reuters,Canada,,2024,6.9,USD Billion,2.4,18.8,77.2
+Commercial International Bank,Egypt,,2024,4.7,USD Billion,,20.6,4.8
+Keppel,Singapore,,2024,5.2,USD Billion,3.0,20.3,8.9
+Julius Baer Group,Switzerland,,2024,6.5,USD Billion,,115.0,12.3
+Lincoln National,United States,,2024,16.8,USD Billion,1.4,353.9,5.1
+General Motors,United States,,2024,174.9,USD Billion,10.7,276.6,52.2
+Shenwan Hongyuan Group,China,,2024,3.3,USD Billion,,86.9,5.2
+Postal Savings Bank Of China (PSBC),China,,2024,80.3,USD Billion,11.3,2259.7,58.1
+UPM-Kymmene,Finland,,2024,11.2,USD Billion,,20.0,20.4
+Tata Power Company,India,,2024,7.4,USD Billion,,16.7,16.7
+CF Industries Holdings,United States,,2024,6.1,USD Billion,1.2,13.9,13.9
+Copart,United States,,2024,4.2,USD Billion,1.4,8.0,52.4
+Astellas Pharma,Japan,,2024,11.1,USD Billion,,23.6,17.2
+UMB Financial,United States,,2024,2.5,USD Billion,,45.3,4.2
+China Development Bank Financial Leasing,China,,2024,3.7,USD Billion,,57.8,3.6
+Dollar General,United States,,2024,38.7,USD Billion,1.7,33.7,31.2
+STMicroelectronics,Switzerland,,2024,16.5,USD Billion,3.7,25.0,37.2
+Dongfeng Motor Group,China,,2024,14.0,USD Billion,,46.6,3.1
+Advanced Micro Devices,United States,,2024,22.8,USD Billion,1.1,67.9,265.8
+UCB,Belgium,,2024,5.7,USD Billion,,17.2,25.7
+Bank Rakyat Indonesia (BRI),Indonesia,,2024,14.9,USD Billion,3.9,125.5,46.5
+ABB,Switzerland,,2024,32.3,USD Billion,3.6,41.1,96.7
+Virgin Money UK,United Kingdom,,2024,5.0,USD Billion,,112.0,3.5
+Rio Tinto,United Kingdom,,2024,54.0,USD Billion,10.1,103.5,119.2
+Snowflake,United States,,2024,2.8,USD Billion,,8.2,54.1
+Bath & Body Works,United States,,2024,7.4,USD Billion,,5.5,11.2
+Daiwa House Industry,Japan,,2024,36.0,USD Billion,2.1,43.2,16.9
+Orange,France,,2024,47.7,USD Billion,2.4,125.6,31.2
+Commercial Metals,United States,,2024,8.4,USD Billion,,6.7,6.7
+Fiserv,United States,,2024,19.4,USD Billion,3.2,92.7,89.4
+Kohl's,United States,,2024,17.5,USD Billion,,14.0,2.9
+Toyota Tsusho,Japan,,2024,70.5,USD Billion,2.3,46.6,21.7
+PICC,China,,2024,77.3,USD Billion,3.2,214.0,30.3
+China Pacific Insurance,China,,2024,46.6,USD Billion,3.8,332.1,27.2
+OTP Bank,Hungary,,2024,11.8,USD Billion,2.9,113.7,13.6
+HP,United States,,2024,53.1,USD Billion,3.4,35.8,30.5
+AutoZone,United States,,2024,17.8,USD Billion,2.6,16.7,50.5
+Coca-Cola,United States,,2024,46.1,USD Billion,10.8,99.4,271.5
+Greentown China Holdings,China,,2024,18.6,USD Billion,,75.5,3.0
+Popular,United States,,2024,4.0,USD Billion,,70.9,6.6
+Mashreq Bank,United Arab Emirates,,2024,5.2,USD Billion,2.3,65.3,10.3
+HPB,Croatia,,2024,2.5,USD Billion,,55.0,
+Unum Group,United States,,2024,12.6,USD Billion,1.3,53.6,10.1
+Dentsu,Japan,,2024,9.2,USD Billion,,23.9,7.0
+First Pacific,Hong Kong,,2024,10.5,USD Billion,,27.4,2.0
+Booz Allen Hamilton Holding,United States,,2024,10.3,USD Billion,,6.5,19.8
+Albemarle,United States,,2024,8.4,USD Billion,,19.0,15.4
+Amcor,United Kingdom,,2024,13.8,USD Billion,,16.7,14.8
+WESCO International,United States,,2024,22.2,USD Billion,,15.5,9.4
+Bajaj Auto,India,,2024,5.4,USD Billion,,4.7,29.4
+Corteva,United States,,2024,16.8,USD Billion,,43.6,39.3
+Carlsberg,Denmark,,2024,10.7,USD Billion,-5.9,16.6,18.9
+Bausch Health Companies,Canada,,2024,9.0,USD Billion,,26.9,2.5
+United Microelectronics,Taiwan,,2024,7.1,USD Billion,1.8,17.7,20.5
+Air Lease ,United States,,2024,2.5,USD Billion,,30.9,5.5
+HeidelbergCement,Germany,,2024,22.9,USD Billion,2.1,40.2,19.0
+Tractor Supply,United States,,2024,14.7,USD Billion,1.1,9.6,30.8
+Atlas Copco,Sweden,,2024,16.6,USD Billion,2.7,18.6,90.0
+Duke Energy,United States,,2024,29.5,USD Billion,3.3,178.7,80.2
+Teledyne Technologies,United States,,2024,5.6,USD Billion,,14.6,19.3
+CrowdStrike,United States,,2024,3.1,USD Billion,,6.6,84.1
+Legal & General Group,United Kingdom,,2024,55.9,USD Billion,,656.3,19.0
+BOK Financial,United States,,2024,3.3,USD Billion,,50.2,6.2
+Lennox International,United States,,2024,5.0,USD Billion,,3.0,17.5
+Inventec,Taiwan,,2024,16.7,USD Billion,,7.9,6.0
+Link REIT,Hong Kong,,2024,1.7,USD Billion,,32.4,11.9
+Hanwha,South Korea,,2024,38.8,USD Billion,,158.9,1.5
+Life Insurance Corp. of India,India,,2024,98.0,USD Billion,4.9,561.4,73.6
+China Unicom,Hong Kong,,2024,52.7,USD Billion,2.7,93.2,24.8
+Latam Airlines,Chile,,2024,12.2,USD Billion,,14.9,9.0
+Nedbank,South Africa,,2024,8.2,USD Billion,,71.7,6.1
+Tapestry,United States,,2024,6.7,USD Billion,,13.7,9.7
+Nucor,United States,,2024,34.1,USD Billion,4.2,33.9,41.3
+NAURA Technology GroupLtd,China,,2024,3.3,USD Billion,,7.8,21.4
+Grupo Inbursa,Mexico,,2024,7.5,USD Billion,1.7,45.4,18.0
+Evolution Gaming Group AB,Sweden,,2024,2.0,USD Billion,1.2,5.4,23.3
+Saputo,Canada,,2024,12.8,USD Billion,,10.6,8.7
+Agnico Eagle Mines,Canada,,2024,6.9,USD Billion,,28.8,35.0
+Keyence,Japan,,2024,6.7,USD Billion,2.6,19.6,113.7
+United Overseas Bank,Singapore,,2024,20.2,USD Billion,4.3,396.9,37.6
+SK Telecom,South Korea,,2024,13.4,USD Billion,,22.5,8.1
+Incyte,United States,,2024,3.8,USD Billion,,7.1,12.8
+Xiaomi  ,China,,2024,38.2,USD Billion,2.5,45.7,63.8
+Prologis,United States,,2024,8.2,USD Billion,3.2,93.3,104.1
+Industrial Bank of Korea,South Korea,,2024,15.6,USD Billion,2.0,336.8,8.2
+Ramsay Health Care,Australia,,2024,10.6,USD Billion,,14.1,7.6
+Quinenco,Chile,,2024,12.4,USD Billion,1.0,79.4,5.8
+MTR,Hong Kong,,2024,7.3,USD Billion,,44.4,23.2
+HBIS,China,,2024,16.7,USD Billion,,36.1,3.2
+Fubon Financial,Taiwan,,2024,27.0,USD Billion,2.1,361.2,30.1
+Best Buy,United States,,2024,43.5,USD Billion,1.2,15.0,15.9
+IDEX,United States,,2024,3.2,USD Billion,,5.9,16.8
+Webster Financial,United States,,2024,4.1,USD Billion,,76.2,8.0
+WW Grainger,United States,,2024,16.6,USD Billion,1.8,8.4,46.4
+NH Investment & Securities,South Korea,,2024,1.9,USD Billion,,43.6,3.3
+Alexandria Real Estate Equities,United States,,2024,3.0,USD Billion,,37.7,21.7
+Wistron,Taiwan,,2024,28.5,USD Billion,,14.4,10.0
+Goodyear,United States,,2024,19.7,USD Billion,,22.0,3.7
+Principal Financial Group,United States,,2024,14.9,USD Billion,1.3,288.4,20.0
+UniCredit,Italy,,2024,26.5,USD Billion,10.8,875.4,66.4
+Kone,Finland,,2024,11.9,USD Billion,1.0,9.0,28.4
+Bank of Baroda,India,,2024,17.1,USD Billion,2.3,198.4,16.2
+BBVA-Banco Bilbao Vizcaya,Spain,,2024,75.2,USD Billion,9.0,865.8,63.5
+Grupa PZU,Poland,,2024,14.6,USD Billion,1.4,118.1,12.2
+Monolithic Power Systems,United States,,2024,1.8,USD Billion,,2.6,35.5
+Ricoh,Japan,,2024,16.2,USD Billion,,15.1,4.9
+Yuexiu Property ,Hong Kong,,2024,11.3,USD Billion,,56.6,3.3
+Central Japan Railway,Japan,,2024,11.8,USD Billion,2.7,65.7,21.9
+China Mobile,Hong Kong,,2024,142.7,USD Billion,18.7,281.0,204.1
+Watsco,United States,,2024,7.3,USD Billion,,4.4,19.2
+Adobe,United States,,2024,19.9,USD Billion,4.8,28.8,216.6
+Shenzhen Transsion Holding,China,,2024,9.8,USD Billion,,6.6,15.3
+Jacobs Solutions,United States,,2024,16.9,USD Billion,,14.9,17.1
+Zhejiang Expressway Co. Ltd.,China,,2024,2.4,USD Billion,,28.3,4.0
+Hirogin Holdings,Japan,,2024,1.3,USD Billion,,84.5,2.3
+Ford Otosan,Turkey,,2024,17.3,USD Billion,2.1,7.3,13.1
+Barrick Gold,Canada,,2024,11.5,USD Billion,1.4,45.8,31.4
+Block,United States,,2024,22.9,USD Billion,,35.6,44.6
+Essential Utilities,United States,,2024,1.9,USD Billion,,17.1,10.9
+Charles Schwab,United States,,2024,25.6,USD Billion,4.8,468.8,140.0
+Abu Dhabi Commercial Bank,United Arab Emirates,,2024,9.9,USD Billion,2.2,161.9,16.7
+Shandong Gold Mining,China,,2024,8.4,USD Billion,,19.0,10.6
+Zhejiang Zheneng Electric Power,China,,2024,13.7,USD Billion,1.0,20.4,11.3
+Chiba Bank,Japan,,2024,2.0,USD Billion,,140.9,6.1
+Jiangsu Eastern Shenghong,China,,2024,19.7,USD Billion,,27.9,9.0
+CRH,Ireland,,2024,34.9,USD Billion,3.1,46.3,56.6
+China National Chemical,China,,2024,25.2,USD Billion,,30.4,6.6
+Yankuang Energy Group,China,,2024,16.8,USD Billion,2.5,58.4,17.8
+AstraZeneca,United Kingdom,,2024,47.6,USD Billion,6.3,102.3,238.4
+Rheinmetall,Germany,,2024,8.0,USD Billion,,12.5,24.2
+Nintendo,Japan,,2024,11.6,USD Billion,3.4,20.8,63.7
+Prada,Italy,,2024,5.1,USD Billion,,8.4,19.8
+The Mosaic Company,United States,,2024,12.8,USD Billion,,22.9,9.8
+Altice USA,United States,,2024,9.2,USD Billion,,31.9,1.0
+JDE Peet's,Netherlands,,2024,8.9,USD Billion,,25.9,11.8
+NASDAQ,United States,,2024,6.2,USD Billion,,30.3,36.2
+Cognizant,United States,,2024,19.3,USD Billion,2.1,18.4,34.2
+Brookfield Corporation,Canada,,2024,101.9,USD Billion,1.1,491.9,73.0
+Digital Realty Trust,United States,,2024,5.5,USD Billion,1.2,42.6,46.4
+China State Construction Engineering,China,,2024,317.4,USD Billion,7.6,410.4,33.3
+Cholamandalam Investment and Finance,India,,2024,2.3,USD Billion,,18.8,13.0
+Sumec Corporation,China,,2024,16.1,USD Billion,,7.8,1.5
+Micron Technology,United States,,2024,18.3,USD Billion,-3.8,65.7,138.7
+Partners Group Holding,Switzerland,,2024,2.4,USD Billion,1.1,5.7,36.0
+MediaTek,Taiwan,,2024,15.0,USD Billion,2.9,20.2,57.5
+Chandra Asri Petrochemical,Indonesia,,2024,2.1,USD Billion,,5.4,49.3
+Daimler Truck Holding,Germany,,2024,60.7,USD Billion,4.2,79.5,34.4
+Sun Hung Kai Properties,Hong Kong,,2024,9.2,USD Billion,3.1,104.5,29.8
+Schindler Holding,Switzerland,,2024,12.8,USD Billion,,13.4,28.3
+Netflix,United States,,2024,34.9,USD Billion,6.4,48.8,267.7
+Coloplast,Denmark,,2024,3.7,USD Billion,,7.0,27.9
+Takeda Pharmaceutical,Japan,,2024,29.5,USD Billion,,99.8,41.7
+Murphy USA,United States,,2024,21.3,USD Billion,,4.3,9.2
+Jiangsu Zhongnan Construction Group,China,,2024,9.2,USD Billion,,30.6,
+KakaoBank,South Korea,,2024,2.0,USD Billion,,44.9,8.3
+Bayer ,Germany,,2024,51.0,USD Billion,-3.4,129.5,30.5
+Seazen Group,China,,2024,16.8,USD Billion,,53.6,1.6
+The Saudi National Bank,Saudi Arabia,,2024,16.3,USD Billion,5.3,285.9,56.4
+Abu Dhabi Islamic Bank,United Arab Emirates,,2024,3.9,USD Billion,1.4,53.0,11.8
+NRG Energy,United States,,2024,28.5,USD Billion,1.6,25.4,17.2
+Gartner,United States,,2024,6.0,USD Billion,,7.7,35.0
+Sun Communities,United States,,2024,3.3,USD Billion,,17.1,15.2
+Keysight Technologies,United States,,2024,5.3,USD Billion,,9.1,27.5
+Tohoku Electric Power,Japan,,2024,19.5,USD Billion,1.6,35.6,4.1
+Sabesp,Brazil,,2024,5.4,USD Billion,,13.3,10.5
+Allstate,United States,,2024,58.6,USD Billion,1.4,96.5,44.7
+Brambles,Australia,,2024,6.4,USD Billion,,8.8,13.3
+PulteGroup,United States,,2024,16.4,USD Billion,2.7,16.5,25.0
+Delta Air Lines,United States,,2024,59.0,USD Billion,5.0,75.0,34.0
+Gerdau (Cosigua),Brazil,,2024,13.4,USD Billion,1.3,15.4,8.0
+Chang Hwa Bank,Taiwan,,2024,2.8,USD Billion,,94.7,6.2
+Storebrand,Norway,,2024,9.7,USD Billion,,89.0,4.6
+China Shipbuilding Industry,China,,2024,6.9,USD Billion,,27.4,16.3
+S.F. Holding,China,,2024,36.6,USD Billion,1.2,31.1,25.4
+Intuit,United States,,2024,15.1,USD Billion,2.8,29.7,185.1
+EQT,United States,,2024,4.5,USD Billion,,25.4,18.2
+Al Rajhi Bank,Saudi Arabia,,2024,14.0,USD Billion,4.3,222.9,85.5
+Manulife,Canada,,2024,26.4,USD Billion,3.4,630.4,48.2
+ASM International,Netherlands,,2024,2.8,USD Billion,,4.9,34.8
+Banque Cantonale Vaudoise,Switzerland,,2024,1.8,USD Billion,,69.9,8.9
+Meta Platforms,United States,,2024,142.7,USD Billion,45.8,222.8,1197.0
+Jyske Bank,Denmark,,2024,4.5,USD Billion,,111.5,5.1
+CVS Health,United States,,2024,361.3,USD Billion,7.3,249.7,72.4
+Bank Negara Indonesia,Indonesia,,2024,5.4,USD Billion,1.4,67.3,12.1
+Weihai City Commercial Bank,China,,2024,2.5,USD Billion,,55.3,2.1
+Cheniere Energy,United States,,2024,17.2,USD Billion,4.9,42.9,36.7
+CNPC Capital,China,,2024,5.9,USD Billion,,141.0,10.6
+Kimco Realty,United States,,2024,1.9,USD Billion,,19.5,13.0
+OneMain Holdings,United States,,2024,5.4,USD Billion,,23.9,6.0
+Roper Technologies,United States,,2024,6.4,USD Billion,1.5,30.0,58.0
+Sumitomo Metal Mining,Japan,,2024,10.0,USD Billion,,20.0,9.0
+Cummins,United States,,2024,34.0,USD Billion,1.9,31.8,39.1
+CK Hutchison,Hong Kong,,2024,35.2,USD Billion,3.0,148.4,20.7
+CGI,Canada,,2024,10.7,USD Billion,1.2,11.6,24.1
+Guangdong Haid Group,China,,2024,16.1,USD Billion,,6.2,12.0
+CP Axtra,Thailand,,2024,14.0,USD Billion,,14.7,8.9
+GE Aerospace,United States,,2024,69.5,USD Billion,3.5,163.9,175.0
+Kering,France,,2024,21.2,USD Billion,3.2,45.7,44.6
+ALFA,Mexico,,2024,16.4,USD Billion,,12.8,3.6
+Wolters Kluwer,Netherlands,,2024,6.0,USD Billion,1.1,10.3,38.3
+Western Digital,United States,,2024,11.9,USD Billion,-1.6,23.8,23.5
+Givaudan,Switzerland,,2024,7.7,USD Billion,,13.2,42.5
+CMS Energy,United States,,2024,7.4,USD Billion,,33.9,18.9
+China Gas Holdings,Hong Kong,,2024,10.9,USD Billion,,19.1,5.5
+Zheshang Development Group,China,,2024,28.5,USD Billion,,6.5,
+Brighthouse Financial,United States,,2024,2.9,USD Billion,-1.1,238.8,2.8
+U-Haul Holding,United States,,2024,5.7,USD Billion,,19.0,13.5
+Japan Exchange Group,Japan,,2024,1.1,USD Billion,,533.1,12.2
+MGM Resorts,United States,,2024,16.7,USD Billion,,42.1,12.9
+China Minsheng Bank,China,,2024,43.9,USD Billion,4.5,1069.2,17.2
+US Foods,United States,,2024,36.0,USD Billion,,13.4,13.6
+Rexel,France,,2024,20.7,USD Billion,,15.1,8.9
+BHP Group,Australia,,2024,55.3,USD Billion,7.3,100.0,152.1
+Ecolab,United States,,2024,15.5,USD Billion,1.6,21.3,66.7
+ITC,India,,2024,8.5,USD Billion,2.5,10.5,65.4
+Hexagon ,Sweden,,2024,5.9,USD Billion,,18.4,29.7
+Omnicom Group,United States,,2024,14.9,USD Billion,1.5,27.3,18.8
+United Natural Foods,United States,,2024,30.3,USD Billion,,7.7,
+BorgWarner,United States,,2024,15.3,USD Billion,,14.1,8.5
+Adyen,Netherlands,,2024,2.0,USD Billion,,10.6,41.9
+DiDi Global,China,,2024,27.2,USD Billion,,20.3,23.0
+Edp-energias De Portugal,Portugal,,2024,17.0,USD Billion,1.1,60.2,17.4
+Heico,United States,,2024,3.2,USD Billion,,7.3,29.8
+Daikin Industries,Japan,,2024,30.4,USD Billion,1.8,32.2,47.3
+Eli Lilly,United States,,2024,35.9,USD Billion,6.1,63.9,731.8
+LS Corp,South Korea,,2024,18.4,USD Billion,,13.6,3.4
+Unibail-Rodamco-Westfield ,France,,2024,3.3,USD Billion,-1.8,59.2,12.0
+China Communications Construction,China,,2024,106.6,USD Billion,3.3,239.2,10.1
+Celltrion,South Korea,,2024,1.8,USD Billion,,15.0,29.1
+Randstad N.V.,Netherlands,,2024,26.9,USD Billion,,11.7,9.8
+PGE Polska Grupa Energetyczna,Poland,,2024,22.8,USD Billion,-1.2,28.8,4.3
+Cardinal Health,United States,,2024,220.6,USD Billion,,45.9,24.1
+Roche Holding,Switzerland,,2024,65.3,USD Billion,12.8,107.5,208.4
+Eurobank Ergasias,Greece,,2024,6.1,USD Billion,1.3,85.7,8.4
+Bank of Tianjin,China,,2024,5.2,USD Billion,,118.5,1.4
+Verizon Communications,United States,,2024,134.0,USD Billion,11.3,380.2,168.6
+DexCom,United States,,2024,3.8,USD Billion,,6.5,52.2
+Attijariwafa Bank,Morocco,,2024,4.2,USD Billion,,66.8,10.3
+Ningbo Jintian Copper (Group),China,,2024,15.5,USD Billion,,3.6,1.3
+Berry Global Group,United States,,2024,12.2,USD Billion,,16.0,6.9
+Capital One,United States,,2024,51.0,USD Billion,5.1,481.7,54.2
+Bank of Suzhou,China,,2024,3.3,USD Billion,,89.7,4.0
+Freeport-McMoRan,United States,,2024,23.8,USD Billion,1.6,54.2,77.9
+China Telecom,China,,2024,71.4,USD Billion,4.3,117.4,52.3
+National Grid,United Kingdom,,2024,25.4,USD Billion,9.4,115.0,53.7
+Bunge,United States,,2024,57.6,USD Billion,1.9,25.8,14.6
+Metro Group,Germany,,2024,33.1,USD Billion,,12.4,2.0
+Williams,United States,,2024,10.2,USD Billion,2.9,52.7,50.3
+BCE,Canada,,2024,18.3,USD Billion,1.4,53.6,31.4
+Nestlé,Switzerland,,2024,103.5,USD Billion,12.5,150.4,272.1
+SSE,United Kingdom,,2024,14.3,USD Billion,,31.9,25.3
+ThyssenKrupp Group,Germany,,2024,38.7,USD Billion,-2.5,33.3,3.4
+Poly Developments & Holdings Group,China,,2024,48.2,USD Billion,1.6,197.1,18.5
+Swedbank,Sweden,,2024,13.9,USD Billion,3.3,288.0,23.0
+Cogent Communications,United States,,2024,1.1,USD Billion,1.2,3.1,2.9
+Posco,South Korea,,2024,57.4,USD Billion,1.1,76.7,22.3
+SingTel,Singapore,,2024,10.6,USD Billion,2.4,34.5,29.7
+Prudential,United Kingdom,,2024,10.9,USD Billion,1.7,171.6,28.5
+Obayashi,Japan,,2024,16.1,USD Billion,,19.9,8.3
+Oversea-Chinese Banking,Singapore,,2024,18.6,USD Billion,5.2,440.8,48.3
+Suzuken,Japan,,2024,16.5,USD Billion,,8.1,2.3
+Chipotle Mexican Grill,United States,,2024,10.2,USD Billion,1.3,8.4,88.3
+Nippon Steel ,Japan,,2024,61.3,USD Billion,3.8,70.8,19.4
+Mizrahi Tefahot Bank,Israel,,2024,6.8,USD Billion,1.3,124.5,9.3
+Stellantis,Netherlands,,2024,204.9,USD Billion,20.1,223.3,65.0
+TUI,Germany,,2024,23.5,USD Billion,,17.5,3.6
+VeriSign,United States,,2024,1.5,USD Billion,,1.7,17.0
+Broadcom,United States,,2024,38.9,USD Billion,11.6,177.9,646.6
+Abbott Laboratories,United States,,2024,40.3,USD Billion,5.6,72.5,181.1
+Alfa Laval,Sweden,,2024,6.1,USD Billion,,8.0,18.7
+AvalonBay Communities,United States,,2024,2.8,USD Billion,,20.6,28.3
+British American Tobacco,United Kingdom,,2024,33.9,USD Billion,-17.9,151.3,69.9
+Bank of Greece,Greece,,2024,7.5,USD Billion,,250.2,
+Shanghai Electric Group,China,,2024,15.8,USD Billion,,38.6,3.4
+Kyushu Financial Group,Japan,,2024,1.5,USD Billion,,89.3,2.7
+Taiwan Semiconductor,Taiwan,,2024,71.5,USD Billion,27.3,180.9,672.0
+SS&C Technologies,United States,,2024,5.6,USD Billion,,17.4,15.8
+Ecopetrol,Colombia,,2024,32.3,USD Billion,4.2,74.7,24.9
+News Corp,United States,,2024,9.9,USD Billion,,16.5,15.0
+Oracle,United States,,2024,52.5,USD Billion,10.6,137.1,339.4
+FactSet Research Systems,United States,,2024,2.2,USD Billion,,4.0,17.1
+China Nuclear Engineering Corporation,China,,2024,15.2,USD Billion,,30.3,3.3
+Sasol,South Africa,,2024,14.9,USD Billion,,23.4,4.7
+Canadian Pacific Kansas City,Canada,,2024,10.2,USD Billion,2.9,60.3,76.6
+Oneok,United States,,2024,17.8,USD Billion,2.2,44.4,48.2
+Fannie Mae,United States,,2024,143.3,USD Billion,18.0,4323.8,1.8
+Lundbergs,Sweden,,2024,2.2,USD Billion,,21.4,13.2
+Allianz,Germany,,2024,148.2,USD Billion,9.7,1056.8,113.8
+Vonovia,Germany,,2024,5.3,USD Billion,-4.3,101.6,26.3
+Gen Digital,United States,,2024,3.8,USD Billion,,15.8,15.7
+Almarai,Saudi Arabia,,2024,5.3,USD Billion,,9.3,14.6
+Daqin Railway,China,,2024,11.0,USD Billion,1.6,29.1,17.3
+Saudi Investment Bank,Saudi Arabia,,2024,2.3,USD Billion,,36.4,4.4
+Dollar Tree,United States,,2024,30.6,USD Billion,,22.0,25.6
+Genworth Financial,United States,,2024,7.0,USD Billion,,70.9,2.9
+Chesapeake Energy,United States,,2024,4.7,USD Billion,1.1,14.0,12.0
+Baxter International,United States,,2024,14.9,USD Billion,,27.8,18.0
+Shanghai Commercial & Savings Bank,Taiwan,,2024,3.0,USD Billion,,75.8,6.9
+Johnson & Johnson,United States,,2024,89.7,USD Billion,17.5,172.0,372.2
